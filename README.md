@@ -9,6 +9,8 @@ This is a exploratory data analysis project which focuses on movies ratings.
 Pandas - for cleaning and transforming data
 Matplotlib and seaborn - to create visualizations
    
+##Dataset explanation  
+
 `movies.csv` contains movie ratings data for 214 of the most popular movies (with a significant number of votes) released in 2016 and 2017. As of March 22, 2017, the ratings were up to date. Significant changes should be expected mostly for movies released in 2017.
 
 
